@@ -1,17 +1,27 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "<p>In this Project i have used</p>\r <p>HTML, CSS, Java script,Node JS, Embedded Java script Templating & Layout</p><br>\r <p>Note: Inorder to execute the described code, one has to also import node modules which were not given in repository.</p>",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Surya",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
-    "nodemon": "^2.0.20"
-  }
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanikhil-mallampalli/ToDoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suryanikhil-mallampalli/ToDoList/issues"
+  },
+  "homepage": "https://github.com/suryanikhil-mallampalli/ToDoList#readme"
 }

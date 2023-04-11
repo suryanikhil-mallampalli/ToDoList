@@ -1,6 +1,6 @@
 <%- include("header") -%>
         <div class="box" id="heading">
-            <h1> <%=ListTitle%></h1>
+            <h1> <%= ListTitle %></h1>
         </div>
         <div class="box">
             <% (newListItems).forEach(function(item){ %>
@@ -16,7 +16,7 @@
             <!-- responsible for adding new items -->
            <form class="" action="/" method="post">
                 <input type="text" name ="newItem" placeholder="New Item" autocomplete="off">
-                <button type="submit" name="list" value=<%= ListTitle %>>+</button>
+                <button type="submit" name="list" value="<%= ListTitle %>">+</button>
             </form>
         </div>
 <%- include("footer") -%>

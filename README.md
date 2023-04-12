@@ -9,7 +9,7 @@
     <h2>Installation</h2>
     <ol>
       <li>Clone the repository.</li>
-      <pre><code>git clone https://github.com/&lt;username&gt;/&lt;repository&gt;.git</code></pre>
+      <pre><code>git clone:<a href=https://github.com/suryanikhil-mallampalli/ToDoList.git>https://github.com/suryanikhil-mallampalli/ToDoList.git</a></code></pre>
       <li>Install the required dependencies.</li>
       <pre><code>npm install</code></pre>
       <li>Start the server.</li>

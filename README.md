@@ -14,7 +14,7 @@
       <pre><code>npm install</code></pre>
       <li>Start the server.</li>
       <pre><code>node app.js</code></pre>
-      <li>Open your browser and go to <a href="http://localhost:3000">http://localhost:3000</a> to view the application.</li>
+      <li>Open your browser and go to <a href="https://localhost:3000">http://localhost:3000</a> to view the application.</li>
     </ol>
     <h2>Usage</h2>
     <h3>Add a new item</h3>
